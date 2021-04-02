@@ -4,6 +4,12 @@
 	margin: 0;
 	padding: 0;
 }
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 :root {
 	font-size: calc(16px + (20 - 16)*(100vw - 320px)/(1024 - 320));
 }
